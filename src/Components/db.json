@@ -1,0 +1,10 @@
+{
+  "logins": [
+    {
+      "bankType": "Online Banking",
+      "userId": "this",
+      "password": "this",
+      "id": 1
+    }
+  ]
+}
